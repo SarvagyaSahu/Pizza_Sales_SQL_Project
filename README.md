@@ -1,1 +1,1 @@
-# Pizza_Sales_SQL_Project
+Pizza sales data using SQL. Get insights into order trends, popular pizzas, and revenue breakdown. Explore basic & advanced queries for total orders, revenue, top sellers, category distribution, daily averages, and revenue contribution by pizza type.
